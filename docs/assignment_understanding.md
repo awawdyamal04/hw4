@@ -89,7 +89,7 @@ prompts, diagrams, documentation, and a `README.md`.
 
 ## 5. Why We Are Splitting the Work Into Phases
 
-We split the work into phases because the course method explicitly forbids
+We split the work into phases because the course method requires us to avoid
 skipping straight to results. The rules state that we must **not**:
 
 - implement code before the PRD and Plan exist,
